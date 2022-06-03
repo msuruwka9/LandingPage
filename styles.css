@@ -151,3 +151,10 @@ a {
     font-weight: bold;
     color: #F9FAF8;;
 }
+
+footer{
+    text-align: center;
+    background-color: #1f2937;
+    color: #E5E7EB;
+    padding: 40px;
+}
